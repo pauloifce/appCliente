@@ -85,12 +85,11 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Listar Chaves</a>
-                    <a href="https://laracasts.com">Cadastrar</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="#">Listar Chaves</a>
+                    <a href="#">Cadastrar</a>
+                    <a href="#">Reservar</a>
+                    <a href="#">Cancelar Reserva</a>
+                    
                 </div>
             </div>
         </div>

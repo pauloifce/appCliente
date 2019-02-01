@@ -17,6 +17,4 @@ Route::get('/', function () {
 
 Auth::routes();
 
-//Route::get('/home', 'HomeController@index')->name('home');
-//Route::get('/bloco', 'BlocoController@index')->name('bloco');
-Route::get('/bloco', ['uses'=>'BlocoController@index','as'=>'bloco.index']);
+Route::get('/home', 'HomeController@index')->name('home');
